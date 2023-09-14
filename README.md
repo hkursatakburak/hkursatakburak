@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭  I’m currently developing **Python** , **Django** , **Arduino**.
 - 🌱  I’m currently learning **Docker**
-- 💬  Ask me about **Arduino prjects, django project**
+- 💬  Ask me about **Arduino projects, django project**
 - 📫  akburakkursat54@gmail.com
   
 ### Connect with me:
