@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://phils.design/arduino-icons/images/svg/flat_arduino_icon_kit.svg">
 
 ### Hi there 👋, I'm Hamza Kürşat Akburak
 #### Electrical & Electronic Engineer student in Trakya University
@@ -31,6 +32,7 @@ Here are some ideas to get you started:
 <br />
 
 ---
+
 
 ### You can find Languages and Tools in this Account and much more!
 
