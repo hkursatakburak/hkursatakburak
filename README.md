@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ### Hi there 👋, I'm Hamza Kürşat Akburak
 #### Electrical & Electronic Engineer student in Trakya University
 
-- 🔭  I’m currently developing **Python** , **Django** , **Arduino**.
-- 🌱  I’m currently learning **Docker**
-- 💬  Ask me about **Arduino projects, django project**
+- 🔭  I’m currently developing **Python** , **matlab** , **Arduino**.
+- 🌱  I’m currently learning **CW radars**
+- 💬  Ask me about **Arduino projects, radars, signal modulation**
 - 📫  akburakkursat54@gmail.com
   
 ### Connect with me:
