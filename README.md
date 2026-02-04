@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 #### Electrical & Electronic Engineer student in Trakya University
 
 - 🔭  I’m currently developing **Python** , **matlab** , **Arduino**.
-- 🌱  I’m currently learning **CW radars**
-- 💬  Ask me about **Arduino projects, radars, signal modulation**
+- 🌱  I’m currently learning **CW radars** , **DeepLearning**
 - 📫  akburakkursat54@gmail.com
   
 ### Connect with me:
