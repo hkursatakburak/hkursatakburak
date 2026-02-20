@@ -18,12 +18,10 @@
 
 ### 👨‍💻 About Me :
 
-I am a Senior Electrical & Electronics Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey, deeply passionate about **Defense Systems, Aviation, AI, and Embedded Engineering**. 
+I am a Senior Electrical & Electronics Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey, deeply passionate about **Defense Systems and AI**. 
 
-- 🔭 I’m currently working on my Graduation Project: **AI in Agriculture** (Developing CNN models using Hyperspectral Cameras for soil quality prediction, proudly sponsored by **İrtem Tarım** 🚜).
+- 🔭  I’m currently working on my Graduation Project: AI in Agriculture (Developing DL models using Hyperspectral datas for soil quality prediction)
 - 🌱 I’m currently diving into an intensive engineering marathon focusing on **Bare-metal driver programming, PCB design, FPGA modules, and CW Radars**. ⚡
-- 🥊 In my free time, I apply the same discipline from my engineering studies to the ring as a **Balkan Boxing Champion**. I also enjoy PC gaming and am currently prepping for the YÖKDİL Science exam. 📖
-- 🌍 Proud **AIESEC Exchange Alumni** & **Special Jury Prize** Winner 🏆.
 - 📫 How to reach me: **akburakkursat54@gmail.com**
 
 ---
@@ -60,7 +58,7 @@ I am a Senior Electrical & Electronics Engineering Student <img src="https://med
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hkursatakburak&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://readme-stats-fast.vercel.app/api/?username=hkursatakburak&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkursatakburak&theme=radical" alt="GitHub Streak" />
+  <img src="https://readme-stats-fast.vercel.app/api/streak/?username=hkursatakburak&theme=radical" alt="GitHub Streak" />
 </div>
